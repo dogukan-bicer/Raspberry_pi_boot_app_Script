@@ -1,0 +1,7 @@
+lxpanel --profile LXDE-pi
+@pcmanfm --desktop --profile LXDE-pi
+point-rpi
+#@chromium-browser --start-fullscreen --start-maximized https://www.google.com/  #açılışta chrome u tam ekran açmak için
+@sh /home/dogukan/Desktop/denemeScript.sh &
+#@xscreensaver -no-splash
+# terminale yaz :::sudo nano ~/.config/lxsession/LXDE-pi/autostart
